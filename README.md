@@ -1,3 +1,3 @@
-# ggplot2
-learning ggplot
+# samilarity
+samilarity
 version v1.0
